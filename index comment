@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Christian Camu Personal Site</title>
+
+    <link rel="stylesheet" href="CSS/Style.css">
+
+</head>
+
+<body>
+    <table cellspacing="20px">
+        <tr>
+            <td> <img src="ianto.jpg" alt="picture ko" width="200px"></td>
+            <td>
+                <h1>Christian Camu</h1>
+                <p><em><strong>Aspirant Code Braker</em></strong>: <em><a
+                            href="https://facebook.com">facebook.com</a></em></p>I am a aspiring noob developer who
+                wants to learn web programing.
+            </td>
+
+        </tr>
+    </table>
+    <hr>
+    <h3>Books and Teachings</h3>
+    <ul>
+        <li>First Item</li>
+        <li>Second Item</li>
+        <li>Third Item</li>
+    </ul>
+    <h3><a href="Hobbies.html">My Hobbies</a> <a href="Contact-me.html">Contact me here!</a></h3>
+    <ol>
+        <li>Editing</li>
+        <li>Eating</li>
+        <li>Watching Youtube</li>
+    </ol>
+    <hr>
+    <h3>Work Experience</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Company</th>
+                <th>Date</th>
+                <th>Position</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Almunajem</td>
+                <td>2012-2016</td>
+                <td>Graphic Designer</td>
+            </tr>
+        </tbody>
+    </table>
+    <h3>Skills</h3>
+    <table cellspacing="20px">
+        <tr>
+            <td>Adobe Photoshop</td>
+            <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
+            <td>Adobe Illustrator</td>
+            <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
+        </tr>
+        <td>3dsmax</td>
+        <td>&#11088;&#11088;&#11088;&#11088;</td>
+        <td>Autocad</td>
+        <td>&#11088;&#11088;&#11088;</td>
+        </tr>
+    </table>
+</body>
+
+</html>
